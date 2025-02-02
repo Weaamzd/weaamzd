@@ -1,21 +1,3 @@
-**## Hi there 👋
-
-<!--
-**Weaamzd/weaamzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center"><b>Hi , I'm Wiaam </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">Data Scientist |  Software Engineer</h2>
 <!--  -->A
@@ -24,11 +6,7 @@ Here are some ideas to get you started:
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&size=20">
   </p>
 
-  <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
-  </p>
-
-  <p align="left"> 
+  <p align="center"> 
     <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </p>
@@ -44,12 +22,16 @@ Here are some ideas to get you started:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+🚀 Passionate IT Graduate | Software Engineer | AI Enthusiast
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+I have hands-on experience in full-stack development, software engineering, and artificial intelligence. Skilled in C#, Java, JavaScript, SQL, and Python, I specialize in frameworks like Angular, ASP.NET Web API, and Spring Boot. My research on deep learning-based coffee leaf disease classification showcases my ability to innovate in AI.
+- 🚀 A passionate Self-taught AI developer
+- 🔭 I’m currently working on AI and web development projects
+- 💬 Ask me about Coding, AI, and problem-solving
+- 📫 How to reach me: on my Linkdin
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I enjoy hackathons and love turning ideas into reality!
+- 💼 I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
