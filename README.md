@@ -52,8 +52,10 @@ I have hands-on experience in full-stack development, software engineering, and 
 - Deep Learning, Machine Learning, NLP, Data Modeling, Predictive Modeling
 
 🛠 Techniques & Tools:
-- Techniques: Predictive Analytics, Data Visualization, Pattern Recognition, Software Development  
-- Machine Learning & AI Tools:  
+- Techniques: Predictive Analytics, Data Visualization, Pattern Recognition, Software Development
+  
+- Machine Learning & AI Tools:
+  
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
   ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
@@ -65,25 +67,30 @@ I have hands-on experience in full-stack development, software engineering, and 
   ![Large Language Models (LLM)](https://img.shields.io/badge/LLM-228B22?style=for-the-badge)  
 
 - Development Tools:
+  
   ![LangChain](https://img.shields.io/badge/LangChain-2C3E50?style=for-the-badge)  
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
 - API Tools:
+  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
   ![RESTful API](https://img.shields.io/badge/RESTful%20API-0052CC?style=for-the-badge)  
 
 - Frameworks:
+  
   ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-- Version Control: 
+- Version Control:
+   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 - Database Management Systems:
+
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
