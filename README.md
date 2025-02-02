@@ -155,9 +155,11 @@ I have hands-on experience in full-stack development, software engineering, and 
 <br>
 
   <p align="left">
-	  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=weaamzd&layout=compact&langs_count=5&theme=codeSTACKr"/> -->
-      
-    <a/> <!-- Snake -->
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=weaamzd&layout=compact&langs_count=5&theme=codeSTACKr"/> -->
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
+
+   <p align="left">
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
 
