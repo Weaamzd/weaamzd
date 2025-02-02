@@ -22,7 +22,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-🚀 Passionate IT Graduate | Software Engineer | AI Enthusiast
+🚀 Passionate IT Graduate | Software Engineer | AI Enthusiast | ML Engineer
 
 I have hands-on experience in full-stack development, software engineering, and artificial intelligence. Skilled in C#, Java, JavaScript, SQL, and Python, I specialize in frameworks like Angular, ASP.NET Web API, and Spring Boot. My research on deep learning-based coffee leaf disease classification showcases my ability to innovate in AI.
 - 🚀 A passionate Self-taught AI developer
