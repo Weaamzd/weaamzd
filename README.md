@@ -28,10 +28,13 @@ I have hands-on experience in full-stack development, software engineering, and 
 - 🚀 A passionate Self-taught AI developer
 - 🔭 I’m currently working on AI and web development projects
 - :nerd_face: Always `learning new things`.
-- 💬 Ask me about Coding, AI, and problem-solving
+- 💬 Ask me about Coding, AI, Machine Learning, Programming or problem-solving
 - 📫 How to reach me: on my Linkdin
-- ⚡ Fun fact: I enjoy hackathons and `love turning ideas into reality`!.
+- ⚡ Fun fact: I enjoy hackathons and `love turning ideas into reality`!
 - 💼 I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 📰 Scientific Research: 
+	-	[Coffee Leaf Diseases Quadruple Classifier (CLQC) Model Using Deep Learning](https://link.springer.com/chapter/10.1007/978-3-031-53237-5_14) 
+
 
 <br><br>
 
