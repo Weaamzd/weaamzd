@@ -27,9 +27,9 @@
 I have hands-on experience in full-stack development, software engineering, and artificial intelligence. Skilled in C#, Java, JavaScript, SQL, and Python, I specialize in frameworks like Angular, ASP.NET Web API, and Spring Boot. My research on deep learning-based coffee leaf disease classification showcases my ability to innovate in AI.
 - 🚀 A passionate Self-taught AI developer
 - 🔭 I’m currently working on AI and web development projects
+- :nerd_face: Always `learning new things`.
 - 💬 Ask me about Coding, AI, and problem-solving
 - 📫 How to reach me: on my Linkdin
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I enjoy hackathons and love turning ideas into reality!
 - 💼 I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
