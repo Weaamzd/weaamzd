@@ -30,7 +30,7 @@ I have hands-on experience in full-stack development, software engineering, and 
 - :nerd_face: Always `learning new things`.
 - 💬 Ask me about Coding, AI, and problem-solving
 - 📫 How to reach me: on my Linkdin
-- ⚡ Fun fact: I enjoy hackathons and love turning ideas into reality!
+- ⚡ Fun fact: I enjoy hackathons and `love turning ideas into reality`!.
 - 💼 I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
