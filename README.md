@@ -49,7 +49,7 @@ I have hands-on experience in full-stack development, software engineering, and 
 # 🚀 Data Science & Artificial Intelligence (AI)
 
 🔍 Core Skills:
-- [Deep Learning, Machine Learning, NLP, Data Modeling, Predictive Modeling]
+--- [Deep Learning, Machine Learning, NLP, Data Modeling, Predictive Modeling]
 
 🛠 Techniques & Tools:
 - [Techniques: Predictive Analytics, Data Visualization, Pattern Recognition, Software Development]
