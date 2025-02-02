@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Wiaam </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">Data Scientist |  Software Engineer</h2>
-<!--  -->A
+<!--  -->🚀 Passionate IT Graduate | Software Engineer | AI Enthusiast
  <p align="center"> <!-- Google Me -->
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&size=20">
