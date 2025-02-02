@@ -6,6 +6,9 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&size=20">
   </p>
 
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=weaamzd&color=4010B0" height="30"/>
+  </p>
   <p align="center"> 
     <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
