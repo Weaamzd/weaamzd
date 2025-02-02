@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Wiaam </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">Data Scientist |  Software Engineer</h2>
+<h2 align="center">Data Scientist | ML Engineer | Software Engineer</h2>
 <!--  -->
  <p align="center"> <!-- Google Me -->
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
@@ -22,7 +22,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-🚀 Passionate IT Graduate | Software Engineer | AI Enthusiast | ML Engineer
+🚀 Passionate IT Graduate | Software Engineer | AI Enthusiast
 
 I have hands-on experience in full-stack development, software engineering, and artificial intelligence. Skilled in C#, Java, JavaScript, SQL, and Python, I specialize in frameworks like Angular, ASP.NET Web API, and Spring Boot. My research on deep learning-based coffee leaf disease classification showcases my ability to innovate in AI.
 - 🚀 A passionate Self-taught AI developer
