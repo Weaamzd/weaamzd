@@ -10,7 +10,7 @@
       <img src="https://komarev.com/ghpvc/?username=weaamzd&color=4010B0" height="30"/>
   </p> -->
   <p align="center"> 
-    <a href="https://www.linkedin.com/in/a-hemeda">
+    <a href="https://www.linkedin.com/in/wiaam--alabas">
       <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </p>
 
