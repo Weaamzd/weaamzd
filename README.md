@@ -35,7 +35,7 @@ I have hands-on experience in full-stack development, software engineering, and 
 - 💬 Ask me about Coding, AI, Machine Learning, Programming or problem-solving
 - 📫 How to reach me: on my Linkdin
 - ⚡ Fun fact: I enjoy hackathons and `love turning ideas into reality`!
-- 💼 I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 💼 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/18e6mdHSl4DogwK5z4UbTVlsFW2RHksTv/view?usp=drivesdk)
 - 📰 Scientific Research: 
 	-	[Coffee Leaf Diseases Quadruple Classifier (CLQC) Model Using Deep Learning](https://link.springer.com/chapter/10.1007/978-3-031-53237-5_14) 
 
